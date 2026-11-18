@@ -12,10 +12,10 @@ window.CCG_LINKS = {
   googleReview:       "https://tinyurl.com/t87wrsd5",
   instagram:          "https://tinyurl.com/552d3fdy",
   facebook:           "https://tinyurl.com/2ua4bdv5",
-  location:           "https://tinyurl.com/3y3sa3au",
+  location:           "https://tinyurl.com/yr93b5j4",
   email:              "mailto:skinandhairbydrvidhya@gmail.com",
 
   /* PENDING: paste the final clinic website URL between the quotes.
      While empty, the Explore button is inactive and shows "Website link coming soon". */
-  explore:            ""
+  explore:            "https://tinyurl.com/2pfssha4"
 };
